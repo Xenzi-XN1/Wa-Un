@@ -11,10 +11,13 @@
  <img src="" width="640" title="Menu" alt="Menu">
 </p>
 
-### Login Script
+### Free Api Spam Wa
  <img src="" width="640" title="Menu" alt="Menu">
 </p>
 
+### Hasil
+ <img src="" width="640" title="Menu" alt="Menu">
+</p>
 
 #### Install script on Termux
 ```bash
