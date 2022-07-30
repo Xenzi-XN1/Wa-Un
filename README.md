@@ -8,15 +8,15 @@
 <p align="center">
  
 ### Tampilan Awal Script
- <img src="" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Xenzi-XN1/Wa-Un/blob/main/Foto/IMG_20220731_005200.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Free Api Spam Wa
- <img src="" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Xenzi-XN1/Wa-Un/blob/main/Foto/IMG_20220731_005230.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Hasil
- <img src="" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Xenzi-XN1/Wa-Un/blob/main/Foto/IMG_20220731_005219.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Install script on Termux
