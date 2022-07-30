@@ -24,7 +24,8 @@
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ pip install -r requirements.txt
+$ pip install requests
+$ pip install bs4
 $ git clone https://github.com/Xenzi-XN1/Wa-Un
 ```
 #### Run script
